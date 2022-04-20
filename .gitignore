@@ -4,7 +4,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -31,3 +32,6 @@ xcuserdata/
 ## Xcode 8 and earlier
 *.xcscmblueprint
 *.xccheckout
+
+Pods.build
+build/
